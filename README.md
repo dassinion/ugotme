@@ -2,6 +2,8 @@
 
 Decompiled sources of Java application "u-gotme" for GPS trackers "I-gatU" wrote by "deepocean" team
 
+Tested with device "i-gatU GT-820 Pro" 
+
 For compile run:
 
 ```
