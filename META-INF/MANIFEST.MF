@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.1
+Created-By: 1.7.0_45-b18 (Oracle Corporation)
+Class-Path: lib/jna.jar lib/jssc.jar lib/purejavacomm.jar lib/jcommon-
+ 1.0.17.jar lib/jfreechart-1.0.14.jar lib/RXTXcomm.jar lib/date4j.jar 
+ lib/comm.jar lib/appframework-1.0.3.jar lib/swing-worker-1.1.jar lib/
+ swing-layout-1.0.4.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: net.deepocean.u_gotme.UgotmeApp
+

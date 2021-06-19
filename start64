@@ -1,0 +1,5 @@
+#!/bin/bash
+ld="-Djava.library.path=/usr/lib/"
+cp="-cp './lib/*:/usr/share/java/rxtx/*'"
+port="-Dgnu.io.rxtx.SerialPorts=/dev/ttyACM1"
+java -Xdiag ${cp} "${ld}" "${port}" -jar app.jar
